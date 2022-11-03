@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ATSON
+ *
+ */
+module Course {
+}
